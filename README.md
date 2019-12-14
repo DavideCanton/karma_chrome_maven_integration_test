@@ -1,1 +1,1 @@
-# karma_chrome_maven_integration_test
+# Karma Chrome Maven Integration Test
