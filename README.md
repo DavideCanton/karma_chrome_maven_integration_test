@@ -1,0 +1,1 @@
+# karma_chrome_maven_integration_test
