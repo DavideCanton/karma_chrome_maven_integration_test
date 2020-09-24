@@ -46,6 +46,11 @@
     "puppeteer-chromium-resolver": "^3.0.1",
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
-    "typescript": "~3.5.3"
+    "typescript": "~3.5.3",
+    "node-forge": ">=0.10.0",
+    "yargs-parser": ">=13.1.2",
+    "tree-kill": ">=1.2.2",
+    "minimist": ">=1.2.3",
+    "kind-of": ">=6.0.3"
   }
 }
